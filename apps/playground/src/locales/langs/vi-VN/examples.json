@@ -1,0 +1,66 @@
+{
+  "title": "Ví dụ",
+  "modal": {
+    "title": "Hộp Thoại"
+  },
+  "drawer": {
+    "title": "Ngăn Kéo"
+  },
+  "ellipsis": {
+    "title": "Văn Bản Rút Gọn"
+  },
+  "form": {
+    "title": "Biểu Mẫu",
+    "basic": "Biểu Mẫu Cơ Bản",
+    "query": "Biểu Mẫu Tìm Kiếm",
+    "rules": "Quy Tắc Biểu Mẫu",
+    "dynamic": "Biểu Mẫu Động",
+    "custom": "Thành Phần Tuỳ Chỉnh",
+    "api": "API",
+    "merge": "Biểu Mẫu Hợp Nhất"
+  },
+  "vxeTable": {
+    "title": "Bảng Vxe",
+    "basic": "Bảng Cơ Bản",
+    "remote": "Tải Từ Xa",
+    "tree": "Bảng Dạng Cây",
+    "fixed": "Cố Định Đầu Cột",
+    "virtual": "Cuộn Ảo",
+    "editCell": "Chỉnh Sửa Ô",
+    "editRow": "Chỉnh Sửa Dòng",
+    "custom-cell": "Tuỳ Chỉnh Ô",
+    "form": "Bảng Biểu Mẫu"
+  },
+  "captcha": {
+    "title": "Mã Xác Minh",
+    "pointSelection": "Mã Xác Minh Chọn Điểm",
+    "sliderCaptcha": "Mã Xác Minh Kéo Thanh",
+    "sliderRotateCaptcha": "Mã Xác Minh Xoay",
+    "captchaCardTitle": "Vui lòng hoàn thành xác minh bảo mật",
+    "pageDescription": "Xác minh danh tính người dùng bằng cách nhấp vào các vị trí cụ thể trong hình ảnh.",
+    "pageTitle": "Ví dụ Thành Phần Mã Xác Minh",
+    "basic": "Sử Dụng Cơ Bản",
+    "titlePlaceholder": "Văn Bản Tiêu Đề Mã Xác Minh",
+    "captchaImageUrlPlaceholder": "Hình Ảnh Mã Xác Minh (hỗ trợ giá trị thuộc tính src thẻ img)",
+    "hintImage": "Hình Ảnh Gợi Ý",
+    "hintText": "Văn Bản Gợi Ý",
+    "hintImagePlaceholder": "Hình Ảnh Gợi Ý (hỗ trợ giá trị thuộc tính src thẻ img)",
+    "hintTextPlaceholder": "Văn Bản Gợi Ý",
+    "showConfirm": "Hiển Thị Xác Nhận",
+    "hideConfirm": "Ẩn Xác Nhận",
+    "widthPlaceholder": "Chiều Rộng Hình Mã Xác Minh Mặc Định 300px",
+    "heightPlaceholder": "Chiều Cao Hình Mã Xác Minh Mặc Định 220px",
+    "paddingXPlaceholder": "Lề Ngang Mặc Định 12px",
+    "paddingYPlaceholder": "Lề Dọc Mặc Định 16px",
+    "index": "Chỉ Số:",
+    "timestamp": "Dấu Thời Gian:",
+    "x": "x:",
+    "y": "y:"
+  },
+  "resize": {
+    "title": "Thay Đổi Kích Thước"
+  },
+  "layout": {
+    "col-page": "Bố Cục Trang Cột"
+  }
+}

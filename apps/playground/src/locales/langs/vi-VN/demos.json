@@ -1,0 +1,70 @@
+{
+  "title": "Trình diễn",
+  "access": {
+    "frontendPermissions": "Quyền Trên Giao Diện",
+    "backendPermissions": "Quyền Trên Backend",
+    "pageAccess": "Truy Cập Trang",
+    "buttonControl": "Kiểm Soát Nút",
+    "menuVisible403": "Hiển Thị Menu(403)",
+    "superVisible": "Hiển Thị Với Super",
+    "adminVisible": "Hiển Thị Với Admin",
+    "userVisible": "Hiển Thị Với Người Dùng"
+  },
+  "nested": {
+    "title": "Menu Lồng Ghép",
+    "menu1": "Menu 1",
+    "menu2": "Menu 2",
+    "menu2_1": "Menu 2-1",
+    "menu3": "Menu 3",
+    "menu3_1": "Menu 3-1",
+    "menu3_2": "Menu 3-2",
+    "menu3_2_1": "Menu 3-2-1"
+  },
+  "outside": {
+    "title": "Trang Bên Ngoài",
+    "embedded": "Nhúng",
+    "externalLink": "Liên Kết Ngoài"
+  },
+  "badge": {
+    "title": "Huy Hiệu Menu",
+    "dot": "Huy Hiệu Dấu Chấm",
+    "text": "Huy Hiệu Văn Bản",
+    "color": "Màu Huy Hiệu"
+  },
+  "activeIcon": {
+    "title": "Biểu Tượng Menu Kích Hoạt",
+    "children": "Biểu Tượng Kích Hoạt Của Menu Con"
+  },
+  "fallback": {
+    "title": "Trang Dự Phòng"
+  },
+  "features": {
+    "title": "Tính Năng",
+    "hideChildrenInMenu": "Ẩn Menu Con",
+    "loginExpired": "Hết Hạn Đăng Nhập",
+    "icons": "Biểu Tượng",
+    "watermark": "Hình Mờ",
+    "tabs": "Thẻ",
+    "tabDetail": "Chi Tiết Thẻ",
+    "fullScreen": "Toàn Màn Hình",
+    "clipboard": "Bảng Ghi Tạm",
+    "menuWithQuery": "Menu Có Truy Vấn",
+    "openInNewWindow": "Mở Trong Cửa Sổ Mới",
+    "fileDownload": "Tải Xuống Tệp"
+  },
+  "breadcrumb": {
+    "navigation": "Điều Hướng Breadcrumb",
+    "lateral": "Chế Độ Ngang",
+    "lateralDetail": "Chi Tiết Chế Độ Ngang",
+    "level": "Chế Độ Cấp",
+    "levelDetail": "Chi Tiết Chế Độ Cấp"
+  },
+  "vben": {
+    "title": "Dự Án",
+    "about": "Giới Thiệu",
+    "document": "Tài Liệu",
+    "antdv": "Phiên Bản Ant Design Vue",
+    "naive-ui": "Phiên Bản Naive UI",
+    "element-plus": "Phiên Bản Element Plus"
+  }
+}

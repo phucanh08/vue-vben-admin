@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "login": "Đăng Nhập",
+    "register": "Đăng Ký",
+    "codeLogin": "Đăng Nhập Bằng Mã",
+    "qrcodeLogin": "Đăng Nhập Bằng Mã QR",
+    "forgetPassword": "Quên Mật Khẩu",
+    "sendingCode": "Đang gửi mã SMS...",
+    "codeSentTo": "Mã đã được gửi đến {0}"
+  },
+  "dashboard": {
+    "title": "Bảng Điều Khiển",
+    "analytics": "Phân Tích",
+    "workspace": "Không Gian Làm Việc"
+  }
+}
